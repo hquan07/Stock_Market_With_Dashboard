@@ -134,6 +134,6 @@ Browser: [http://127.0.0.1:8050](http://127.0.0.1:8050)
 ---
 
 ## 📬 Contact
-If you have any questions or suggestions, feel free to reach out.
+Email: huyquan1607@gmail.com
 
 ---
